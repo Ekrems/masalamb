@@ -1,0 +1,1 @@
+Projenin ilk versiyonu olan bu  versiyonda bir ledi telefondan bluetooth ile açıp kapamayı başarıyoruz ancak potansiyometre ile kontrol etmeye çalıştığımızda bazı hatalar ile karşılıyoruz diğer versiyonda bu hatalar çözülmesi planlanmaktadır.
